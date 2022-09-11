@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+#logo-name{
+    font-family: 'Tangerine', serif;
+        font-size: 90px;
+        font-weight: 900;
+        color: rgb(61, 57, 57)
+    }
+    .form-group{
+        background-color: rgb(187, 206, 222);
+        height: 470px;
+        border-radius: 10px;
+    }
